@@ -1,8 +1,5 @@
 # Data Bank - Q1 and April 2020 Financial Performance analysis
 
-### Dashboard Link
-https://app.powerbi.com/groups/me/reports/5504b34a-9c89-41a1-984e-a3410d91df4e/ReportSection7265fa1edeb34b68825d?experience=power-bi
-
 ## Problem Statement
 Through this analysis, we aim to identify the root causes of these discrepancies and improve our financial forecasting and customer engagement strategies.
 
